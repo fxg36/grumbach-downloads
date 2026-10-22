@@ -6,11 +6,11 @@ Portable Programme für Windows. Die Downloads funktionieren ohne Konto und ohne
 
 Kisten und Auflageleisten für Rohre planen, mit Werkstattzeichnung und PDF-Export.
 
-**[Box Designer herunterladen · ZIP, 93.3 MB](https://github.com/fxg36/grumbach-downloads/releases/download/box-designer-2026-10-21_18-14/Box.Designer-2026-10-21_18-14.zip)**
+**[Box Designer herunterladen · ZIP, 93.3 MB](https://github.com/fxg36/grumbach-downloads/releases/download/box-designer-2026-10-22_14-54/Box.Designer-2026-10-22_14-54.zip)**
 
-Stand: **21.10.2026, 18:14 Uhr** · Version **0.2.0** · Windows 10 / 11, 64 Bit · Keine Installation nötig.
+Stand: **22.10.2026, 14:54 Uhr** · Version **0.2.1** · Windows 10 / 11, 64 Bit · Keine Installation nötig.
 
-Die aktuelle Version enthält größere Eingaben und Texte sowie begrenzte Zeichnungsgrößen mit lesbaren Maßzahlen.
+Die aktuelle Version sichert den Arbeitsstand automatisch und stellt ihn nach Neuladen oder Neustart wieder her. Scrollen verändert Zahlenfelder nicht mehr versehentlich.
 
 ### So startest du
 
@@ -20,7 +20,7 @@ Die aktuelle Version enthält größere Eingaben und Texte sowie begrenzte Zeich
 
 Das Paket enthält die portable EXE und START.txt. Eigene Daten vor einem Update sichern und erhalten.
 
-[SHA-256-Prüfsumme herunterladen](https://github.com/fxg36/grumbach-downloads/releases/download/box-designer-2026-10-21_18-14/Box.Designer-2026-10-21_18-14.zip.sha256) · [Versionsdetails](https://github.com/fxg36/grumbach-downloads/releases/tag/box-designer-2026-10-21_18-14)
+[SHA-256-Prüfsumme herunterladen](https://github.com/fxg36/grumbach-downloads/releases/download/box-designer-2026-10-22_14-54/Box.Designer-2026-10-22_14-54.zip.sha256) · [Versionsdetails](https://github.com/fxg36/grumbach-downloads/releases/tag/box-designer-2026-10-22_14-54)
 
 Es wird jeweils die aktuelle Version je Programm angeboten. Datum und Uhrzeit beziehen sich auf Deutschland.
 
